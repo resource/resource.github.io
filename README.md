@@ -1,2 +1,1 @@
-resource.github.io
-==================
+Current Resource open source projects.
