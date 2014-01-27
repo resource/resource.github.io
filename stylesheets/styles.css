@@ -62,7 +62,7 @@ p {
 }
 
 .projects h1 {
-  font-size: 28px;
+  font-size: 34px;
   font-weight: normal;
   color: #999;
 }
@@ -71,11 +71,16 @@ p {
   list-style: none;
   padding: 0;
   margin: 0;
+  margin-bottom:40px;
+}
+
+.projects li {
+  margin-bottom:30px;
 }
 
 .projects li h2 {
-  font-weight: normal;
-  color: #333;
+  font-weight: bold;
+  color: #666;
   padding: 0;
   margin-bottom: 5px;
 }
